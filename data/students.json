@@ -1,0 +1,38 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "balaji",
+        "age": 24,
+        "course": "MCA",
+        "email": "settyrbalaji@gmail.com",
+        "marks": {
+            "Python": 50.0,
+            "Database": 22.0,
+            "Computer Networks": 33.0
+        }
+    },
+    {
+        "student_id": "STU002",
+        "name": "balu",
+        "age": 24,
+        "course": "mca",
+        "email": "settyrbalaji@gmail.com",
+        "marks": {
+            "Python": 40.0,
+            "Database": 50.0,
+            "Computer Networks": 60.0
+        }
+    },
+    {
+        "student_id": "STU003",
+        "name": "Balaji",
+        "age": 24,
+        "course": "MCA",
+        "email": "settyrbalaji@gmail.com",
+        "marks": {
+            "Python": 50.0,
+            "Database": 60.0,
+            "Computer Networks": 70.0
+        }
+    }
+]

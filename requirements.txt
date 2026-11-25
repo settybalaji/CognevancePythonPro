@@ -1,0 +1,6 @@
+# Student Record Management System
+# Python version: 3.9 or above
+# No external packages required.
+# Uses built-in modules:
+# json
+# pathlib
